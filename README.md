@@ -4,4 +4,4 @@
 
 ## I am hoping to learn more about basic structures and various languages this semester
 
-##**I am left handed**
+## I am **left handed**
